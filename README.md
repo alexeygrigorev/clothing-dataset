@@ -24,7 +24,7 @@ The `images.csv` file contains:
 
 * If you're looking for a subset of the clothing dataset, check here: https://github.com/alexeygrigorev/clothing-dataset-small
 * You can read more about this dataset here: LINK
-* This dataset is also awailable on Kaggle (with images in higher resolution): https://www.kaggle.com/agrigorev/clothing-dataset-full/ (please upwote it!)
+* This dataset is also awailable on Kaggle (with images in higher resolution): https://www.kaggle.com/agrigorev/clothing-dataset-full/ (please upvote it!)
 
 ### Top-10 subset
 

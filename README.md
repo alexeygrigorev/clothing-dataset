@@ -34,15 +34,6 @@ That’s why, for educational purposes, we created a subset of the full dataset 
 
 Check it here: https://github.com/alexeygrigorev/clothing-dataset-small
 
-### Citing 
-
-If you use the dataset in your work, please cite it:
-
-```
-HERE WILL BE A CITATION
-```
-
-(You don't have to do it - it's entirely optional)
 
 ### Acknowledgements 
 
@@ -63,3 +54,12 @@ It wouldn't be possible to collect this dataset without your help!
 Do you use this dataset somewhere? Please submit a PR with a link
 
 
+### Citing 
+
+If you use the dataset in your work, please cite it:
+
+```
+HERE WILL BE A CITATION
+```
+
+(You don't have to do it - it's entirely optional)

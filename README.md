@@ -23,7 +23,7 @@ The `images.csv` file contains:
 ### Links
 
 * If you're looking for a subset of the clothing dataset, check here: https://github.com/alexeygrigorev/clothing-dataset-small
-* You can read more about this dataset here: LINK
+* You can read more about this dataset here: https://medium.com/data-science-insider/clothing-dataset-5b72cd7c3f1f
 * This dataset is also awailable on Kaggle (with images in higher resolution): https://www.kaggle.com/agrigorev/clothing-dataset-full/ (please upvote it!)
 
 ### Top-10 subset
@@ -35,6 +35,14 @@ That’s why, for educational purposes, we created a subset of the full dataset 
 Check it here: https://github.com/alexeygrigorev/clothing-dataset-small
 
 
+### Examples
+
+* https://www.kaggle.com/agrigorev/collage
+* Add a link here
+
+Do you use this dataset somewhere? Please submit a PR with a link
+
+
 ### Acknowledgements 
 
 We'd like to thank
@@ -44,22 +52,3 @@ We'd like to thank
 * Everyone who supported the initiative by engaging with the announcements on social media   
 
 It wouldn't be possible to collect this dataset without your help!
-
-
-## Examples
-
-* https://www.kaggle.com/agrigorev/collage
-* Add a link here
-
-Do you use this dataset somewhere? Please submit a PR with a link
-
-
-### Citing 
-
-If you use the dataset in your work, please cite it:
-
-```
-HERE WILL BE A CITATION
-```
-
-(You don't have to do it - it's entirely optional)

@@ -48,7 +48,8 @@ Do you use this dataset somewhere? Please submit a PR with a link
 We'd like to thank
 
 * Kenes Shangereyev and [Tagias.com](tagias.com) for helping with 3000 images
-* All the 32 people who contributed their images to the dataset via the forms
+* All the 32 people who contributed their images to the dataset via the forms:
+  * [Patricia Goldberg](https://www.linkedin.com/in/patricia-goldberg/)
 * Everyone who supported the initiative by engaging with the announcements on social media   
 
 It wouldn't be possible to collect this dataset without your help!

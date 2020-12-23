@@ -38,6 +38,7 @@ Check it here: https://github.com/alexeygrigorev/clothing-dataset-small
 ### Examples
 
 * https://www.kaggle.com/agrigorev/collage
+* [Train a self-supervised model using lightly on the clothing-dataset](https://docs.lightly.ai/tutorials/package/tutorial_simclr_clothing.html)
 * Add a link here
 
 Do you use this dataset somewhere? Please submit a PR with a link
